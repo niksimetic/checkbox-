@@ -1,0 +1,9 @@
+C:\Users\3.D\source\repos\nikSimetic\obj\Debug\nikSimetic.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\nikSimetic\obj\Debug\nikSimetic.Form1.resources
+C:\Users\3.D\source\repos\nikSimetic\obj\Debug\nikSimetic.Properties.Resources.resources
+C:\Users\3.D\source\repos\nikSimetic\obj\Debug\nikSimetic.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\nikSimetic\bin\Debug\nikSimetic.exe.config
+C:\Users\3.D\source\repos\nikSimetic\bin\Debug\nikSimetic.exe
+C:\Users\3.D\source\repos\nikSimetic\bin\Debug\nikSimetic.pdb
+C:\Users\3.D\source\repos\nikSimetic\obj\Debug\nikSimetic.exe
+C:\Users\3.D\source\repos\nikSimetic\obj\Debug\nikSimetic.pdb
